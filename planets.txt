@@ -1,7 +1,9 @@
 Mercury
 Venus
 Earth
-    Mond
+ - Mond
 Mars
+ - Phobos
+ - Deimos
 Jupiter
 Saturn
